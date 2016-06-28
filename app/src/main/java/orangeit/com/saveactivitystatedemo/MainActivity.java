@@ -63,7 +63,7 @@ public class MainActivity extends Activity
     {
         mUsername = mUsernameEditText.getText().toString();
         mPassword = mPasswordEdittext.getText().toString();
-        Log.d("MainActivity", "=================in OnPause()=========== username is = "+ mUsername +"  the password is:="+mPassword
+        Log.d("MainA", "=================in OnPause()=========== username is = "+ mUsername +"  the password is:="+mPassword
 
         );
         super.onPause();
