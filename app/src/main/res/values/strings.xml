@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SaveActivityStateDemo</string>
+    <string name="username_edittext_hint">Enter Username</string>
+    <string name="save_credentials_button_text">Save Credentials</string>
+</resources>
